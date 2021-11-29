@@ -5,3 +5,4 @@ Bananas
 Mangoes
 Tomotoes
 Carrots
+Cereal
